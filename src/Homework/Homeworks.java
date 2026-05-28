@@ -9,6 +9,7 @@ public class Homeworks {
    }
 }
 
+
 /* Qa. List and Set
 A: List and Set are both collections that store objects in a particular order.
 But List allows duplicates while Set does not allow duplicates.
