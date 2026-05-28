@@ -1,4 +1,5 @@
 package Homework;
+import java.util.*;
 
 public class Homework234 {
     static void main(String[] args){
@@ -112,3 +113,128 @@ finally is used to handel exceptions. When we use try-catch to handle the except
 finalize() is a method called by the Garbage Collector before an object is destroyed.
 It was used for cleanup operations, but it is deprecated in modern Java.
  */
+
+/*
+Qk. What is Generics in Java? What are the advantages of using Generics?
+A: Generics allow classes, interfaces, and methods to work with different data types while providing type safety.
+They help detect type errors at compile time and reduce the need for explicit type casting.
+Generics also improve code reusability and readability.
+ */
+
+/*Qi.
+How does Generics work in Java? What is type erasure?
+A: Java Generics work through a process called type erasure.
+During compilation, generic type information is removed and replaced with Object or the bounded type.
+Because of type erasure, generic type information is not available at runtime.
+ */
+
+/*
+Qm. What is the difference between List<? extends T> and List<? super T>?
+List<? extends T>: When you only need to read data from the list, because it accepts subclasses of T.
+List<? super T>: When you need to add objects into the list, because it accepts superclasses of T.
+ */
+
+/*
+Qo. What is OOP?
+Object-Oriented Programming (OOP) is a programming paradigm based on objects and classes.
+It is used to organize code by modeling real-world entities with data and behaviors.
+OOP helps improve code reusability, scalability, and maintainability.
+There are four main principles of OOP:
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+How do you engage in each of the following?
+- Encapsulation
+    Encapsulation means hiding the internal details of an object and controlling access to its data through methods.
+    It uses modifiers like public, private, protected or default to restrict the access.
+
+- Inheritance
+    Inheritance in Java is a mechanism that allows one class to acquire the properties and behaviors of another class.
+    Two inheritance mechanism abstraction class and interface. In Java, one class can only extend one class, but interface supports multiple inheritance of interfaces. This is the key difference in Inheritance.
+
+- Polymorphism
+    Polymorphism means one method or object can have different behaviors depending on the context or object type.
+    It uses override and overload. Overload is inner class behavior or two methods with different signature. Override is in between the class methods have the same signature, but different logics. Overload is resolved in the compile time. Override is resolved at the run time.
+
+- Abstraction
+    Abstraction is to hide the detailed implementations behind the templates.
+    We have two options, abstraction class and interface. (Going back to when we talk about inheritance).
+ */
+
+// Coding exercise: given a random character array, find the char with third highest frequence
+//input: [a, b, b, c, c, c], output: [a]
+
+class Frequency {
+    public static void stringFreq(String str) {
+        Map<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < str.length(); i++) {
+            char c = str.charAt(i);
+            if (map.containsKey(c)) {
+                map.put(c, map.get(c) + 1);
+            } else {
+                map.put(c, 1);
+            }
+        }
+        List<Integer> freqList = new ArrayList<>(map.values());
+        freqList.sort(Collections.reverseOrder()); //Put all the frequency into a list.
+        int thirdHighest = freqList.get(2); // The third high with reverseOrder.
+
+        for(Map.Entry<Character, Integer> j: map.entrySet()){
+            if(j.getValue() == thirdHighest){
+                System.out.println(j.getKey());
+            }
+        }
+    }
+    public static void main(String[] args){
+        String string = "abbccc";
+        stringFreq(string);
+    }
+}
+
+// Coding exercies: reverse a string
+//input: “abc”, output: “cba”
+
+class Reverse{
+    public static List<String> reverseOrder(String str){
+        List<String> list = new ArrayList<>();
+        for(int i=0; i<str.length(); i++){
+            list.add(String.valueOf(str.charAt(i)));
+        }
+        return list.reversed();
+    }
+    static void main(String[] args){
+        String string = "abc";
+        System.out.println(reverseOrder(string));
+    }
+}
+
+//Code practice: given an integer array and target, return all the pairs sum to the target, each element can only be used once
+//input: [1, 2, 3, 4] target = 5, return [[1, 4],[2, 3]]
+
+class PairSum {
+    public static List<List<Integer>> findPairs(int[] nums, int target) {
+        List<List<Integer>> result = new ArrayList<>();
+        Set<Integer> seen = new HashSet<>();
+        Set<Integer> used = new HashSet<>();
+        for (int num : nums) {
+            int complement = target - num;
+            if (seen.contains(complement)
+                    && !used.contains(num)
+                    && !used.contains(complement)) {
+                result.add(Arrays.asList(complement, num));
+                used.add(num);
+                used.add(complement);
+            }
+            seen.add(num);
+        }
+        return result;
+    }
+    public static void main(String[] args) {
+        int[] nums = {1, 2, 3, 4};
+        int target = 5;
+        List<List<Integer>> result = findPairs(nums, target);
+        System.out.println(result);
+    }
+}
+
