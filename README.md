@@ -13,3 +13,5 @@ Homework 5 is [here](./src/Homework/Homework5.java).
 
 Coding exercise 1 is [here](./src/Homework/CodingTest.java).
 
+Coding exercise results are [here](./src/Homework)
+
