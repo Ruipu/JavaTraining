@@ -3,9 +3,9 @@ package Homework;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-public class Homeworks {
+public class Homework1 {
    static void main(String[] args) {
-       System.out.println("Homework");
+       System.out.println("Homework1 and partial of Homework2");
    }
 }
 
