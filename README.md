@@ -15,4 +15,10 @@ Coding exercise 1 is [here](./src/Homework/CodingTest.java).
 
 Coding exercise results are [here](./src/Homework)
 
-Mock Interview vides in S3 bucket are here [part 1](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart1.MP4) and [part2](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart2.MP4) [part3](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart3.MP4)
+Mock Interview videos in S3 bucket are here [part 1](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart1.MP4) and [part2](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart2.MP4) [part3](https://simon-java-training2026.s3.us-east-2.amazonaws.com/QApart3.MP4)
+
+If you cannot open the videos from S3 bucket, please get it from Google drive.
+
+[part1](https://drive.google.com/file/d/1iom9UyVATbbh1jcTWbzTN8C2gvNpG2AD/view?usp=sharing)
+[part2](https://drive.google.com/file/d/1vR4UEpPlpMDghA-CMkpvMS54CzOYlZFS/view?usp=sharing)
+[part3](https://drive.google.com/file/d/1cjxtchhfoRlEEe7Rb_BMdaoSan_IpUot/view?usp=sharing)
