@@ -1,3 +1,8 @@
+June 1st Mock Interview Video is here: [part1](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart1.MP4)
+
+[part2](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart2.MP4).
+
+
 
 Homework 0 is [here](Homework0)
 
@@ -22,3 +27,5 @@ If you cannot open the videos from S3 bucket, please get it from Google drive.
 [part1](https://drive.google.com/file/d/1iom9UyVATbbh1jcTWbzTN8C2gvNpG2AD/view?usp=sharing)
 [part2](https://drive.google.com/file/d/1vR4UEpPlpMDghA-CMkpvMS54CzOYlZFS/view?usp=sharing)
 [part3](https://drive.google.com/file/d/1cjxtchhfoRlEEe7Rb_BMdaoSan_IpUot/view?usp=sharing)
+
+
