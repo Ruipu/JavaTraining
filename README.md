@@ -2,6 +2,8 @@ June 1st Mock Interview Video is here: [part1](https://simon-java-training2026.s
 
 [part2](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart2.MP4).
 
+[part3](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart3.MP4).
+
 
 
 Homework 0 is [here](Homework0)
