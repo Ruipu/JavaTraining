@@ -1,3 +1,6 @@
+June 2nd, Handwriting homework is here:[Handswriting](HomeworkJune2.pdf)
+
+
 June 1st Mock Interview Video is here: [part1](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart1.MP4)
 
 [part2](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Jun1QApart2.MP4).
