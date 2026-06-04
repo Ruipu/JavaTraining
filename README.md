@@ -1,3 +1,5 @@
+Homework 6 is [here](HW6.md)
+
 June 2nd, Handwriting homework is here: [Handswriting](HomeworkJune2.pdf)
 
 
