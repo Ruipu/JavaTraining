@@ -220,3 +220,5 @@ Common types of testing include:
 - Performance Testing
 
 Testing is important because fixing bugs during development is much cheaper and easier than fixing them after deployment.
+
+## Video is here! [Video](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW6.MP4)
