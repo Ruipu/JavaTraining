@@ -1,4 +1,4 @@
-Homework 6 is [here](HW6.md); Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW6.MP4), and also in my HW6.md, last row.
+Homework 6 is [here](HW6.md);        Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW6.MP4), and also in my HW6.md, last row.
 
 June 2nd, Handwriting homework is here: [Handswriting](HomeworkJune2.pdf)
 
