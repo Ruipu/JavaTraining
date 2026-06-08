@@ -1,4 +1,6 @@
-HW7 is [here](HW7.md)
+
+-
+HW7 is [here](HW7.md). HW8 is [here](HW8.md). The Youtube video watching notes are [here](YouTubeVideoNotesURL.md).Q&A Handwritting is [here](Handwritting June5.pdf)
 ---
 Spring Boot Project 1 is [here](https://github.com/Ruipu/SpringBootProject1/tree/ems-back)
 
