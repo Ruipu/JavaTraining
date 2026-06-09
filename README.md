@@ -1,4 +1,7 @@
 
+HW9 is [here](HW9.md)
+
+---
 
 HW7 is [here](HW7.md). HW8 is [here](HW8.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW7and8.MP4)
 
