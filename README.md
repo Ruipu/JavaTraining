@@ -1,6 +1,10 @@
 
 HW9 is [here](HW9.md)
 
+HW9 video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW9.MP4)
+
+Q&A recording video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune8.MP4)
+
 ---
 
 HW7 is [here](HW7.md). HW8 is [here](HW8.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW7and8.MP4)
