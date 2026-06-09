@@ -4,6 +4,7 @@ HW9 is [here](HW9.md)
 HW9 video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW9.MP4)
 
 Q&A recording video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune8.MP4)
+Q&A transcript is [here](https://app.notion.com/p/Spring-Boot-IoC-DI-37a1db30d2df80eea7aed2f14fd83d50?source=copy_link) which is in my newest Spring Boot notes. I will allocation the transcript of Q&A on June 8 in the proper notes later. 
 
 ---
 
