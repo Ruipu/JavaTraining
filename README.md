@@ -1,6 +1,7 @@
 ---
 HW10 is [here](HW10.md)
 Pull Request of AOP is [here](AOPaddedPR.md)
+In case you cannot find it, I put the mock interview transcript [here](https://app.notion.com/p/Mock-Interview-37b1db30d2df8021a436cc288f1ed393?source=copy_link)
 
 ---
 HW9 is [here](HW9.md)
