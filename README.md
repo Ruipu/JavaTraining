@@ -1,9 +1,11 @@
 ---
-HW10 is [here](HW10.md)
+HW10 is [here](HW10.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW10.MP4)
 
 Pull Request of AOP is [here](AOPaddedPR.md)
 
 In case you cannot find it, I put the mock interview transcript [here](https://app.notion.com/p/Mock-Interview-37b1db30d2df8021a436cc288f1ed393?source=copy_link)
+
+Mock Interview video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/June9Mock.MP4).
 
 ---
 HW9 is [here](HW9.md)
