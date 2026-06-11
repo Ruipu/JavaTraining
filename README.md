@@ -1,4 +1,10 @@
 ---
+
+HW11 is [here](HW11.md), video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW11.MP4).
+
+Mock Interview video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AMock.MP4)
+
+---
 HW10 is [here](HW10.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW10.MP4)
 
 Pull Request of AOP is [here](AOPaddedPR.md)
