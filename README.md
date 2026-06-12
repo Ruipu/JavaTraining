@@ -4,6 +4,10 @@ Mock Interview (June 11) transcript is [here](https://app.notion.com/p/Spring-Bo
 
 Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune11.MP4)
 
+In my Spring Boot Project1, I add in Async(by a NotificationService.java), cache, and logs(mainly for Service implementation part).
+
+The PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/1)
+
 
 ---
 
