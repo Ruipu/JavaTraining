@@ -1,5 +1,8 @@
 # Controller Layer Transcript
 
+
+video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/ControllerDesignVideo.MP4)
+
 ```java
 @Slf4j
 @Validated
