@@ -7,6 +7,8 @@ Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26A
 
 The Controller Layer coding explanation transcript is [here](ControllerLayerTranscript.md)
 
+Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/ControllerDesignVideo.MP4). 
+
 
 
 
