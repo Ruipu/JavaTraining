@@ -1,5 +1,12 @@
 ---
 
+Mock Interview (June 12) transcript is [here](MockInterviewJune12.md). Video is [here] (https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune12.MP4) and [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune12Continue.MP4).
+
+
+
+
+---
+
 Mock Interview (June 11) transcript is [here](https://app.notion.com/p/Spring-Boot-1-3781db30d2df80dca4d0f4d9c096dc21?source=copy_link). The order is messy and I will re-order it later. 
 
 Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune11.MP4)
