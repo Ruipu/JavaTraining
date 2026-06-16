@@ -1,5 +1,12 @@
 ---
 
+Homework 13 is [here](HW13.md). The sql console is [here](console_2.sql)
+
+
+
+
+---
+
 Mock Interview (June 12) transcript is [here](MockInterviewJune12.md). 
 
 Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune12.MP4) and [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/Q%26AJune12Continue.MP4).
