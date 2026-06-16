@@ -1,9 +1,9 @@
 ---
 
-Homework 13 is [here](HW13.md). The sql console is [here](console_2.sql)
+Homework 13 is [here](HW13.md). The sql console is [here](console_2.sql).  Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW13.MP4)
 
 
-Mock Interview (June15) transcript is [here](MockJune15.md).
+Mock Interview (June15) transcript is [here](MockJune15.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune15.MP4)
 
 
 ---
