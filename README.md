@@ -1,5 +1,15 @@
 ---
 
+Homework 14 is [here](HW14 3821db30d2df80bab352e8bbf810ab18.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW14.MP4).
+
+Mock Interview (June 16) is [here](Mock Interview June 16 3821db30d2df80309ac0cc8b33cacc68.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune16.MP4)
+
+
+
+
+
+---
+
 Homework 13 is [here](HW13.md). The sql console is [here](console_2.sql).  Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW13.MP4)
 
 
