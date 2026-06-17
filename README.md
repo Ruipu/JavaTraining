@@ -1,6 +1,6 @@
 ---
 
-Homework 14 is [here](HW14.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW14.MP4).
+Homework 14 is [here](HW14.md). There is a screen shot in HW 14 which is [here](FigureHW14.png).  Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW14.MP4).
 
 SQL console is [here](console_2Updated.sql)
 
