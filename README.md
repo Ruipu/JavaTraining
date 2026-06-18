@@ -1,5 +1,16 @@
 ---
 
+JDBC PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/2). Hibernate PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/3).
+
+Homework 15 is [here](HW15.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW15.MP4)
+
+Mock Interview (June 17) is [here](MockJune17.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune17.MP4)
+
+
+
+
+---
+
 Homework 14 is [here](HW14.md). There is a screen shot in HW 14 which is [here](FigureHW14.png).  Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW14.MP4).
 
 SQL console is [here](console_2Updated.sql)
