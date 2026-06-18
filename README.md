@@ -1,6 +1,7 @@
 ---
 
 JDBC PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/2). Hibernate PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/3).
+I cannot guarantee that I fully understand the code word by word. I am still learning and thinking about that. Perhaps it will take me some days. Sorry I am thinking much slower.
 
 Homework 15 is [here](HW15.md). Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/HW15.MP4)
 
