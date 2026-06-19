@@ -1,5 +1,9 @@
 ---
-PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/4)
+Many-to-Many PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/4)
+
+Mock Interview(June 18) Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune18.MP4). Transcript is [here](MockJune18.md).
+
+Homework 16 is [here](HW16.md)
 
 
 ---
