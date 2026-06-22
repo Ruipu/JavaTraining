@@ -1,4 +1,14 @@
 ---
+
+Homework for June 19 is [here](HWJune19.md)
+
+Mock Interview (June 19) transcript is [here](MockJune19.md)
+
+Videos are [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune19-1.MP4) and [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune19-2.MP4)
+
+
+
+---
 Many-to-Many PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/4)
 
 Mock Interview(June 18) Video is [here](https://simon-java-training2026.s3.us-east-2.amazonaws.com/MockJune18.MP4). Transcript is [here](MockJune18.md).
