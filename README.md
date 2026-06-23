@@ -1,5 +1,15 @@
 ---
 
+Youtube Video Note (Indian Accent) is [here](YoutubeVideo.md)
+
+Microservice Review Note is [here](MicroServiceReview.md)
+
+
+
+
+
+---
+
 Homework for June 19 is [here](HWJune19.md)
 
 Mock Interview (June 19) transcript is [here](MockJune19.md)
