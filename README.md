@@ -4,6 +4,10 @@ EC2 deployment evidence is [here--EC2 instance is running](EC2InstanceRunning.pn
 
 I shut down the instance whenever I make sure it works. I can "GET" using the url. If you need to "GET", please tell me. 
 
+Homework 17 is [here](HW17.md).
+
+Mannually drawing of shopping system is [here](OnLineShoppingSystem.pdf)
+
 
 
 
