@@ -1,5 +1,14 @@
 ---
 
+EC2 deployment evidence is [here--EC2 instance is running](EC2InstanceRunning.png) and [here--My Project is in EC2](ProjectStart.png).
+
+I shut down the instance whenever I make sure it works. I can "GET" using the url. If you need to "GET", please tell me. 
+
+
+
+
+---
+
 The Notes for 2PC and Saga is [here](2PC_And_SAGA.md).
 
 
