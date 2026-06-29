@@ -1,6 +1,6 @@
 ---
 
-# June 26-29 Homework — Chain Name Adding
+June 26-29 Homework — Chain Name Adding
 
 I deployed my Spring Boot app on EC2 and added a `/name/aggregation` endpoint 
 that appends my name and forwards the list to my downstream (Suzy).
