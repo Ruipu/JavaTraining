@@ -1,26 +1,12 @@
 ---
 
-# June 26-29 Homework — Chain Name Aggregation
+# June 26-29 Homework — Chain Name Adding
 
-## What I did
-I containerized my `ems-back` Spring Boot application, pushed the image to 
-Docker Hub, and deployed it on an AWS EC2 instance. I added a new REST endpoint 
-`POST /name/aggregation` that:
-1. Receives a name list from the upstream node
-2. Appends my own name ("Simon")
-3. Forwards the list to the downstream node (Suzy)
-4. Returns the aggregated result
+I deployed my Spring Boot app on EC2 and added a `/name/aggregation` endpoint 
+that appends my name and forwards the list to my downstream (Suzy).
 
-My position in the chain: Jessica → Jocelyn → **Simon (me)** → Suzy → April → Allen
-
-## My service
-- URL: `http://18.118.193.87:8080/name/aggregation`
-- Docker image: `simongaorp/ems-back`
-
-## Testing evidence
-I tested both my own endpoint and Suzy's (my downstream) using Postman. 
-Both returned `200 OK` with the correctly aggregated name list, confirming 
-the chain works through my node.
+I tested both my own URL and Suzy's using Postman. Below is the evidence 
+showing the connections work.
 
 [My URL](SimonIP.png)
 [Suzy URL](SuzyIP.png)
