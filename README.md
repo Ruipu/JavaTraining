@@ -22,8 +22,8 @@ I tested both my own endpoint and Suzy's (my downstream) using Postman.
 Both returned `200 OK` with the correctly aggregated name list, confirming 
 the chain works through my node.
 
-![My URL](SimonIP.png)
-![Suzy URL](SuzyIP.png)
+[My URL](SimonIP.png)
+[Suzy URL](SuzyIP.png)
 
 
 ---
