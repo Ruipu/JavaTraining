@@ -1,5 +1,12 @@
 ---
 
+The modification PR of Name Aggregation homework is [here](https://github.com/Ruipu/SpringBootProject1/pull/5)
+
+
+
+
+---
+
 June 26-29 Homework — Chain Name Adding
 
 I deployed my Spring Boot app on EC2 and added a `/name/aggregation` endpoint 
