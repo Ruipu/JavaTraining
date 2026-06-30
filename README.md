@@ -3,7 +3,7 @@
 The modification PR of Name Aggregation homework is [here](https://github.com/Ruipu/SpringBootProject1/pull/5)
 
 
-The question about lambda function is [here](MockInterviewJune29.md)
+The question about lambda function is [here](MockInterviewJune29.md). I will add in more mock interview questions in this file later.
 
 ---
 
