@@ -1,5 +1,18 @@
 ---
 
+July 1:
+
+My PR and merge part is [here](https://github.com/Ruipu/SpringBootProject1/pull/7), where this part triggered Jenkins CI/CD Pipeline.
+
+Evidence of Webhook is [here](Webhook.png).
+
+Evidece of successfully starting Jenkins Pipeline, which was triggered by merge in Github is [here](JenkinsPipeline.png).
+
+
+
+
+---
+
 The modification PR of Name Aggregation homework is [here](https://github.com/Ruipu/SpringBootProject1/pull/5)
 
 
