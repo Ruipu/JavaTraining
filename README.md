@@ -1,6 +1,6 @@
 ---
 
-July 1:
+July 1
 
 My PR and merge part is [here](https://github.com/Ruipu/SpringBootProject1/pull/7), where this part triggered Jenkins CI/CD Pipeline.
 
