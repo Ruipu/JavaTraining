@@ -3,7 +3,7 @@ July 2
 
 Homework 19 is [here](HW19.md)
 
-I also uploaded some screen shots of my Jira setting. [here](jira1.png), [here](jira2.png), and [here](jira3.png)
+I also uploaded some screen shots of my Jira setting. [here](Jira1.png), [here](Jira2.png), and [here](Jira3.png)
 
 
 
