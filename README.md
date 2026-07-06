@@ -2,6 +2,8 @@
 
 July 3-July 6
 
+Homework 20 Q&A is [here](HW20.md). 
+
 I did the unit test for my project, and the PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/8)
 
 The evidence of Jacoco is [here](Jacoco.png)
