@@ -1,4 +1,20 @@
 ---
+
+July 3-July 6
+
+I did the unit test for my project, and the PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/8)
+
+The evidence of Jacoco is [here](Jacoco.png)
+
+The evidence of SonarQube is [here](Sonar-Q1.png) and [here](Sonar-Q2.png).
+
+
+
+
+
+
+
+---
 July 2
 
 Homework 19 is [here](HW19.md)
