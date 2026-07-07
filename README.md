@@ -1,5 +1,17 @@
 ---
 
+July 7
+
+I added the security part in my code and did the test. The PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/8).
+
+I also show some screen-shot evidence of [SonarQ](SonarQ.png) and [Jenkins](Jenkins-updated.png). 
+
+Homework 21 QA is [here](HW21.md)
+
+
+
+---
+
 July 3-July 6
 
 Homework 20 Q&A is [here](HW20.md). 
