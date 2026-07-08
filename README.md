@@ -6,7 +6,7 @@ I added kafka in my project. The PR link is [here](https://github.com/Ruipu/Spri
 I also add my evidence of kafka by my [log information](Kafka-log.png), and [postman](Kafka-postmanEvidence.png).
 
 
-
+Homework 22 QA is [here](HW22.md).
 
 
 ---
