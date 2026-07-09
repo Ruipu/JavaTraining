@@ -1,4 +1,15 @@
 ---
+
+July 9
+
+My frontend project is [here](https://github.com/Ruipu/Ems-frontend/tree/main).
+
+The login webpage is [here](login.png), and the Employee table page is [here](table.png)
+
+Homework 23 QA is [here](HW23.md). 
+
+
+---
 July 8
 
 I added kafka in my project. The PR link is [here](https://github.com/Ruipu/SpringBootProject1/pull/8).
