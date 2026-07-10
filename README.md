@@ -1,5 +1,16 @@
 ---
 
+July 10.
+
+My frontend project (undeted) PR is [here](https://github.com/Ruipu/Ems-frontend/pull/1).
+
+My backend project (jwt) PR is [here](https://github.com/Ruipu/SpringBootProject1/pull/8).
+
+Evidence of my webpage is [here](SigininPage.png) and [here](TablePage.png).
+
+
+---
+
 July 9
 
 My frontend project is [here](https://github.com/Ruipu/Ems-frontend/tree/main).
