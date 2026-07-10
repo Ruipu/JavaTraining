@@ -1,7 +1,4 @@
 ---
-
-
-
 July 10
 
 My frontend project (undeted) PR is [here](https://github.com/Ruipu/Ems-frontend/pull/1).
