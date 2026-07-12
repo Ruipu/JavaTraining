@@ -1,5 +1,17 @@
 ---
 
+July 11
+
+Homework 25 is [here](HW25).
+
+Homework 26 is [here](HW26).
+
+Homework 27 is [here](HW27). 
+
+
+
+---
+
 July 10
 
 My frontend project (undeted) PR is [here](https://github.com/Ruipu/Ems-frontend/pull/1).
