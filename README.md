@@ -1,5 +1,11 @@
 ---
 
+July 27
+
+Resume is [here](SimonGao.pdf)
+
+---
+
 July 24
 
 Modified Microservice Architecture Doc is [here](https://docs.google.com/document/d/1ape04OYZrKd6nZOj-nnRog9w20rA1QUm4FiD9r0aU5g/edit?usp=sharing)
